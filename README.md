@@ -7,22 +7,6 @@ Task-oriented conversational agents are gaining immense popularity and success i
 
 #### Full Paper: https://aclanthology.org/2022.aacl-main.76.pdf
 
-### Experiment 
-
-### Full Dataset Access
-
-We provide the dataset for research and academic purposes. To request access to the dataset, please follow the instructions below:
-
-1. **Fill Out the Request Form**: To access the corpus, you need to submit a request through our [Google Form](https://forms.gle/C5q7jDprPGsCuYcD6).
-
-2. **Review and Approval**: After submitting the form, your request will be reviewed. If approved, you will receive an email with a link to download the dataset.
-
-3. **Terms of Use**: By requesting access, you agree to:
-    - Use the dataset solely for non-commercial, educational, and research purposes.
-    - Not use the dataset for any commercial activities.
-    - Attribute the creators of this resource in any works (publications, presentations, or other public dissemination) utilizing the dataset.
-    - Not disseminate the dataset without prior permission from the appropriate authorities.
-
 ### Citation Information 
 If you find this code useful in your research, please consider citing:
 ~~~~
