@@ -1,0 +1,36 @@
+TAG,Related KB,Column Name,,
+,,KB_Mobile,KB_Laptop,KB_Camera
+B-Brand,"Phone, Laptop and Camera",brand,brand,Brand
+B-Battery,Phone ,Battery,,
+B-RAM,Phone,RAM,,
+B-Camera,Phone,P_Camera <and> S_Camera,,
+B-PCamera,Phone,P_Camera,,
+B-SCamera,Phone,S_Camera,,
+B-Radio,Phone,Radio,,
+B-Display,Phone and Laptop,Display_Size,display_size,
+B-Rating,Laptop,,ratings_5max,
+B-Sim,Phone,SIM,,
+B-GPS,Phone,GPS,,
+B-OS,Phone,OS,,
+B-Colour,Phone,Color,,
+B-Storage,"Phone, Laptop and Camera",Internal_RAM,disk_space,Storage included
+I-Storage,Laptop,,disk_space,
+B-Weight,Phone and Camera,weight_g,Weight (inc. batteries),
+B-ReleaseDate,Phone and Camera,ReleasedDate <and> ReleasedMonth,Release date,
+B-Cost,"Phone, Laptop and Camera",approx_price_EUR,old_price,Price
+B-Model,"Phone, Laptop and Camera",model,laptop_name,Model
+I-Model,"Phone, Laptop and Camera",model,laptop_name,Model
+B-Resolution,Camera,,,Max resolution <and> Low resolution
+B-MaxResolution,Camera,,,Max resolution
+B-MinResolution,Camera,,,Low resolution
+B-ZoomTele,Camera,,,Zoom tele (T)
+B-ZoomFocus,Camera,,,Zoom wide (W)
+B-NormalFocusRange,Camera,,,Normal focus range
+B-MacroFocusRange,Camera,,,Macro focus range
+B-Dimensions,Camera,,,Dimensions
+B-GPU,Laptop,,graphics_card,
+I-GPU,Laptop,,graphics_card,
+B-Processor,Laptop,,processor_type,
+I-Processor,Laptop,,processor_type,
+B-Discount,Laptop,,discount_price,
+B-Feature,"Phone, Laptop and Camera",,,
